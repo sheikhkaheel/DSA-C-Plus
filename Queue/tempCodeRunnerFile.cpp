@@ -1,0 +1,9 @@
+enQueue();
+    peek();
+    enQueue();
+    peek();
+    enQueue();
+    peek();
+    enQueue();
+    peek();
+    enQueue();
