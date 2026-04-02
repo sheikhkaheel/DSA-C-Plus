@@ -1,6 +1,22 @@
 {
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "iostream": "cpp"
-    }
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "iostream": "cpp",
+    "array": "cpp",
+    "concepts": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "memory": "cpp",
+    "optional": "cpp",
+    "string_view": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "streambuf": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp"
+  }
 }
